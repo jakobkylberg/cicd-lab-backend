@@ -1,0 +1,17 @@
+[
+  {
+    "id":"1",
+    "name":"John Alpha",
+    "country":"Spain"
+  },
+  {
+    "id":"2",
+    "name":"Juliette Beta",
+    "country":"Italy"
+  },
+  {
+    "id":"3",
+    "name":"Mark Gamma",
+    "country":"Hungary"
+  }
+]
