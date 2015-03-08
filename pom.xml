@@ -61,7 +61,7 @@
                 <artifactId>maven-assembly-plugin</artifactId>
                 <configuration>
                     <descriptor>src/assembly/assembly.xml</descriptor>
-                    <finalName>cicd-lab-backend-${pom.version}</finalName>
+                    <finalName>cicd-lab-backend-${project.version}</finalName>
                 </configuration>
                 <executions>
                     <execution>
