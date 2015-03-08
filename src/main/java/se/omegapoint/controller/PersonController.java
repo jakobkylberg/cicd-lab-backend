@@ -21,7 +21,7 @@ public class PersonController {
     }
 
     private List<Person> retrievePersons() {
-        Resource personsResource = new ClassPathResource("persons.json");
+        Resource personsResource = new ClassPathResource("data/persons.json");
         ObjectMapper mapper = new ObjectMapper();
         List<Person> persons = new ArrayList<Person>();
         try {
